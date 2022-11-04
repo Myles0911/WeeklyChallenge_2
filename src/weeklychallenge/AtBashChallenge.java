@@ -1,4 +1,4 @@
-package atbashcipher;
+package weeklychallenge;
 
 public class AtBashChallenge {
 
